@@ -1,1 +1,3 @@
-supabase
+streamlit==1.50.0
+pandas==2.2.3
+requests==2.32.5
